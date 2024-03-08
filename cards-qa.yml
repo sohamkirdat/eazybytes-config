@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to cards related local APIs"
+  contactDetails:
+    name: "Rahul Shinde - Developer"
+    email: "rahulshinde@gmail.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 555-1234
