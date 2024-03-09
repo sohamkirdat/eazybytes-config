@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to accounts related prod APIs"
   contactDetails:
     name: "Sumit Khambe - Developer"
-    email: "{cipher}c6f4b442769fa30efb2201091251f231691bc0c3aa115606f1f6987209369b11980e39d54ec2d4080757796121c20f7e"
+    email: "{cipher}cc1033e63c8495310c6b4d18b0b2891f7b1d82f04280b48f97a59e9da1980ec688d714f91cb8fc91eca3461c8c795fe8"
   onCallSupport:
     - (555) 555-1234
     - (555) 555-1234
