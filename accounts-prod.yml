@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to accounts related prod webhook APIs"
+  message: "Welcome to accounts related prod APIs"
   contactDetails:
     name: "Sumit Khambe - Developer"
     email: "{cipher}c6f4b442769fa30efb2201091251f231691bc0c3aa115606f1f6987209369b11980e39d54ec2d4080757796121c20f7e"
