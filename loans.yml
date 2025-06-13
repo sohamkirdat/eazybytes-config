@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to EazyBank accounts related local APIs "
+  contactDetails:
+    name: "Soham Kirdat - Developer"
+    email: "kirdatsoham@gmail.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345
