@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related prod APIs "
+  message: "Welcome to EazyBank accounts related webhook APIs "
   contactDetails:
     name: "Rahul Shinde - Developer"
     email: "{cipher}f7bdfd40bd1e96653e7e7c6daafeb07a6e5a3acf3d361c4b17b69436fb08844345782d617ecc04e6833e654b0c80f56b"
